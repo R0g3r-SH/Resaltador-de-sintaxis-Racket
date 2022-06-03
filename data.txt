@@ -1,0 +1,9 @@
+PrimeraVariable = 980
+
+segundaVariable = -8.3e6
+
+    radio0=0.3 //cualquier secuencia de caracteres, como: lkas93jf=()792$#%7
+
+area_circulo_grande = pi / radio0^2.0e-1
+
+expresion83r34   = 34+interes-diametro4*0.93    + (34+21.0e2)
